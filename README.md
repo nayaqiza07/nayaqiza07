@@ -1,4 +1,4 @@
-![Nayaqiza](./img/github-header-image.png)
+
 
 # 💻 Tech Stack:
 
